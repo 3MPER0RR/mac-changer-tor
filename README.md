@@ -17,4 +17,4 @@ python3 -m venv venv
 
 source venv/bin/activate
 
-pip install stem (only if --tor is used)
+pip install stem ( Tor )
